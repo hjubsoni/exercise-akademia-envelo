@@ -10,8 +10,7 @@ Plik Html
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    Wszystkie style umieściłbym w osobnym pliku styles.css a następnie zaimportował.
+    <title>Document</title> => Wszystkie style umieściłbym w osobnym pliku styles.css a następnie zaimportował.
     <style>
       :root {
         --bg-color: red;
